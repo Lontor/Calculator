@@ -1,3 +1,4 @@
+[[Releases]](https://github.com/Lontor/Calculator/releases)
 # Android Calculator App
 
 This is a simple yet powerful **calculator app** built using **Kotlin** and the **Jetpack Compose** framework with **Material Design**. The app is designed to handle basic mathematical expressions with an intuitive user interface and real-time feedback on user input.
